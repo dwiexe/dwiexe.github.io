@@ -130,7 +130,7 @@ apt install simple-obfs -y
 clear
 # Melakukan Pengambilan File Database
 #wget -O /m.zip "https://github.com/Farell-VPN/.dump/releases/download/1.0.3/citlali.zip"
-wget -q -O /m.zip "https://codeberg.org/dwizy22/scvpss/raw/branch/main/main.zip"
+wget -q -O /m.zip "https://codeberg.org/dwiexe/scvps/raw/branch/main/main.zip"
 cd /
 yes A | unzip m.zip
 rm -f /m.zip
