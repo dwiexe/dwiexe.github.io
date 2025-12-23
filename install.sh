@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-# Credit Rerechan02 / FN Project
+# Credit Dwizy22 / Project
 
-# Dinda Putri Cindyani
+# Anjaii
 
 # Thanks To:
 # PR_Aiman ( Testing )
