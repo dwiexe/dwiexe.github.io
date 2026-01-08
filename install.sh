@@ -237,12 +237,21 @@ echo -e "${BIGreen}Dropbear version $DROPBEAR_VERSION installed successfully!${N
 rm /etc/default/dropbear
 rm /etc/issue.net
 cat> /etc/issue.net << END
-</strong> <p style="text-align:center"><b> <br><font color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br> RERECHAN STORE<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font color="#00FF00"></strong> <p style="text-align:center"><b> <br><font color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br><font color='#FFFF00'><b> ★ [ ༆Hʸᵖᵉʳ᭄W̺͆E̺͆L̺͆C̺͆O̺͆M̺͆E̺͆
-T̺͆O̺͆ M̺͆Y̺͆ S̺͆E̺͆R̺͆V̺͆E̺͆R̺͆ V͇̿I͇̿P͇̿ ] ★ </b></font><br><font color="#FFF00">ℝ𝕖𝕣𝕖𝕔𝕙𝕒𝕟 𝕊𝕥𝕠𝕣𝕖</font><br> <font color="#FF00FF">❖Ƭʜᴇ No DDOS</font><br> <font color="#FF0000">❖Ƭʜᴇ No Torrent</font><br> <font color="#FFB1C2">❖Ƭʜᴇ No Bokep </font><br> <font color="#FFFFFF">❖Ƭʜᴇ No Hacking</font><br>
-<font color="#00FF00">❖Ƭʜᴇ No Mining</font><br> <font color="#00FF00">➳ᴹᴿ᭄ Oder / Trial :
-https://wa.me/6283120684925 </font><br>
-<font color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font color="FFFF00">❖Ƭʜᴇ WHATSAPP GRUP => https://chat.whatsapp.com/LlJmbvSQ2DsHTA1EccNGoO</font><br>
-END
+</strong> <p style="text-align:center;"><font color="#00FFFF"><br>
+一═⌊✦⌉ FANTASY STORE ⌊✦⌉═一</font><br>
+<p style="text-align:center;"><font color="#FFA500">
+╔══════════════════╗</font><br><font color="#00FFFF">
+一═⌊✦⌋ RULES!!! ⌊✦⌋═一</font><br><font color="#00FF00">
+NO PORN JIRRR</font><br>
+<font color="#00FF00">MELANGGAR</font><br>
+<font color="#00FF00">BANNED :v</font><br>
+<font color="#FFA500">
+╚══════════════════╝</font><br>
+<font color="#FFA500">
+╔══════════════════╗</font><br><font color="#00FFFF">一═⌊✦⌋ ORDER ⌊✦⌋═一</font><br><font color="#00FF00">DOR PAKET NON RESMI</font><br>
+<font color="#00FF00">VPN-SERVER-CLOUD</font><br>
+<font color="#FFA500">
+╚══════════════════╝</font><br>
 cat>  /etc/default/dropbear << END
 # All configuration by FN Project / Rerechan02
 # Dinda Putri Cindyani
