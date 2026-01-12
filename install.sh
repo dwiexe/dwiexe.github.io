@@ -252,6 +252,7 @@ NO PORN JIRRR</font><br>
 <font color="#00FF00">VPN-SERVER-CLOUD</font><br>
 <font color="#FFA500">
 ╚══════════════════╝</font><br>
+END
 cat>  /etc/default/dropbear << END
 # All configuration by FN Project / Rerechan02
 # Dinda Putri Cindyani
